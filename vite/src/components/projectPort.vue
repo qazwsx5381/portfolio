@@ -32,7 +32,7 @@
       <a href="https://github.com/qazwsx5381/telegramBot" target="_blank">
         <div class="project" :style="style4">telegram Bot</div></a
       >
-      <a href="https://github.com/qazwsx5381/chat_project_3" target="_blank">
+      <a href="https://github.com/qazwsx5381/chat_program" target="_blank">
         <div class="project" :style="style5">Vue를 활용한 채팅프로그램</div></a
       >
       <a href="https://github.com/qazwsx5381/VUE-project" target="_blank">
@@ -87,8 +87,8 @@ export default {
       const p = document.createElement('p')
       style.addEventListener('mouseover', () => {
         this.style1 = {
-          backgroundColor: 'white',
-          color: 'black',
+          backgroundColor: '#2e8b57',
+          color: 'white ',
           transition: '0.5s',
           textAlign: 'center'
         }
@@ -111,8 +111,8 @@ export default {
       const p = document.createElement('p')
       style.addEventListener('mouseover', () => {
         this.style2 = {
-          backgroundColor: 'white',
-          color: 'black',
+          backgroundColor: '#4682b4',
+          color: 'white',
           transition: '0.5s',
           textAlign: 'center'
         }
@@ -135,8 +135,8 @@ export default {
       const p = document.createElement('p')
       style.addEventListener('mouseover', () => {
         this.style3 = {
-          backgroundColor: 'white',
-          color: 'black',
+          backgroundColor: '#800000',
+          color: 'white',
           transition: '0.5s',
           textAlign: 'center'
         }
@@ -159,7 +159,7 @@ export default {
       const p = document.createElement('p')
       style.addEventListener('mouseover', () => {
         this.style4 = {
-          backgroundColor: 'white',
+          backgroundColor: '#ff77ff',
           color: 'black',
           transition: '0.5s',
           textAlign: 'center'
@@ -183,8 +183,8 @@ export default {
       const p = document.createElement('p')
       style.addEventListener('mouseover', () => {
         this.style5 = {
-          backgroundColor: 'white',
-          color: 'black',
+          backgroundColor: '#708090',
+          color: 'white',
           transition: '0.5s',
           textAlign: 'center'
         }
@@ -231,7 +231,7 @@ export default {
       const p = document.createElement('p')
       style.addEventListener('mouseover', () => {
         this.style7 = {
-          backgroundColor: 'white',
+          backgroundColor: '#ffa500',
           color: 'black',
           transition: '0.5s',
           textAlign: 'center'
@@ -255,7 +255,7 @@ export default {
       const p = document.createElement('p')
       style.addEventListener('mouseover', () => {
         this.style8 = {
-          backgroundColor: 'white',
+          backgroundColor: '#e6e6fa',
           color: 'black',
           transition: '0.5s',
           textAlign: 'center'
@@ -279,7 +279,7 @@ export default {
       const p = document.createElement('p')
       style.addEventListener('mouseover', () => {
         this.style9 = {
-          backgroundColor: 'white',
+          backgroundColor: '#f4a460',
           color: 'black',
           transition: '0.5s',
           textAlign: 'center'

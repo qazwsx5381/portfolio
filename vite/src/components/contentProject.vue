@@ -31,13 +31,12 @@ export default {
       if (window.scrollY >= 1500) {
         Project.className = 'scroll'
       }
-      if (window.scrollY >= 2100) {
-        Introduce.className = 'scroll'
+      if (window.scrollY >= 2200) {
         Experience.className = 'scroll'
       }
-      // if (window.scrollY >= 3001) {
-      //   Experience.className = 'scroll'
-      // }
+      if (window.scrollY >= 3500) {
+        Introduce.className = 'scroll'
+      }
     }
   },
   mounted() {

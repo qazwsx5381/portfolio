@@ -4,8 +4,8 @@
     <div id="link_content">
       <span class="click" @click="move('#Header')">Tool</span>
       <span class="click" @click="move('#Project')">Project</span>
-      <span class="click" @click="move('#Introduce')">Introduce</span>
       <span class="click" @click="move('#Experience')">Experiences</span>
+      <span class="click" @click="move('#Introduce')">Introduce</span>
       <span
         ><a href="https://github.com/qazwsx5381" target="_blank"
           ><img src="../assets/github.png" alt="깃허브" /></a
