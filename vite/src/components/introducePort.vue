@@ -9,7 +9,7 @@
       >그래서 동성인재개발교육원에서 Tools에 표기된 FrontEnd와 BackEnd를 함께
       배웠습니다.
     </span>
-    <span>앞으로 배워야 할 것이 많지만 열심히 공부하며 배우겠습니다.</span>
+    <span>앞으로 배워야 할 것이 많지만 열심히 공부하며 발전해 나가겠습니다..</span>
   </div>
 </template>
 <script></script>
