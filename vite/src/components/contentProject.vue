@@ -25,16 +25,16 @@ export default {
       const Project = document.querySelector('#Project')
       const Introduce = document.querySelector('#Introduce')
       const Experience = document.querySelector('#Experience')
-      if (window.scrollY >= 950) {
+      if (window.scrollY >= 750) {
         Chart.className = 'scroll'
       }
-      if (window.scrollY >= 1500) {
+      if (window.scrollY >= 1300) {
         Project.className = 'scroll'
       }
-      if (window.scrollY >= 2200) {
+      if (window.scrollY >= 2000) {
         Experience.className = 'scroll'
       }
-      if (window.scrollY >= 3500) {
+      if (window.scrollY >= 3300) {
         Introduce.className = 'scroll'
       }
     }
