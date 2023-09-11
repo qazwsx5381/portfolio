@@ -1,7 +1,6 @@
 <template>
   <div>
     <div class="title"><h3 class="title">Introduce</h3></div>
-    <span>처음 접한 프로그래밍 언어는 C언어입니다.</span>
     <span
       >취업한 뒤에도 진로 고민을 계속 하다가 개발자가 되어야겠다고 마음을
       먹었습니다.</span
