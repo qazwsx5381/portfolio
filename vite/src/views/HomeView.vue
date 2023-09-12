@@ -92,7 +92,7 @@ export default {
     },
     scrollClass() {
       const header = document.querySelector('#Header')
-      if (window.scrollY >= 200) {
+      if (window.scrollY >= 150) {
         header.className = 'scroll'
       }
     }

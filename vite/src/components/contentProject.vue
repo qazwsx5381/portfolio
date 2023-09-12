@@ -34,7 +34,7 @@ export default {
       if (window.scrollY >= 2000) {
         Experience.className = 'scroll'
       }
-      if (window.scrollY >= 3300) {
+      if (window.scrollY >= 3800) {
         Introduce.className = 'scroll'
       }
     }
