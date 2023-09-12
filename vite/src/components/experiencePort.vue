@@ -51,6 +51,16 @@
     <div class="block">
       <img src="../assets/project_3.gif" alt="" class="img" />
       <div class="content">
+        <span>Tensorflow 프로젝트('23.07)</span>
+        <span>주제 : 주어진 자료를 활용해 Tensorflowjs 활용하기</span>
+        <span>특이사항</span>
+        <span>- Tensorflow 기초 공부</span>
+        <span>- Epoch시 Loss와 acc값을 tfvis를 활용해 그래프로 표현</span>
+      </div>
+    </div>
+    <div class="block">
+      <img src="../assets/project_4.gif" alt="" class="img" />
+      <div class="content">
         <span>Tensorflow 프로젝트('23.08 ~ '23.09)</span>
         <span
           >주제 : Vuejs 및 Nodejs, Tensorflow를 활용한 도서 홈페이지
