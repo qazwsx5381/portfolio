@@ -8,6 +8,7 @@
           >portfolio github</a
         ></span
       >
+      <span>이 홈페이지는 Vuejs로 제작되었습니다.</span>
     </div>
   </footer>
 </template>
